@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "AbkTukTuk",
+    "slug": "abk-tuktuk",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "orientation": "portrait"
+  }
+}
